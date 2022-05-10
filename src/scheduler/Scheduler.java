@@ -26,6 +26,10 @@ package scheduler;
 public class Scheduler {
 
     public static void main(String[] args) {
-
+    	
+    }
+    
+    public enum() {
+    	MONDAY,TUESDAY,WEDNESDAY,THURSDAY,FRIDAY
     }
 }
